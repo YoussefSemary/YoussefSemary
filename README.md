@@ -9,7 +9,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I'm a ce Student , 21 years old learning to be a frontend Engineer
+  <samp>I'm a cce Student , 22 years old learning to be a frontend Engineer
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
